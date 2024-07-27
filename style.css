@@ -1,0 +1,47 @@
+#main-section{
+    width :500px;
+height:400px;
+border:1px solid blue;
+background-color: rgb(203, 202, 206);
+margin : 40px auto;
+   }
+   #info-section img{
+    width: 480px;
+    height:200px ;
+    margin: 10px;
+   }
+   #best-seller{
+        color: rgb(138, 31, 17);
+        font-weight: bolder;
+        background-color: rgb(172, 165, 192);
+        padding: 3px 5px 3px 5px;
+        border-radius: 8px;
+        border:1px solid rgb(106, 102, 143);
+        position: absolute;
+       top: 60px;
+       left: 450px;
+      
+    }
+    #best{
+        color: rgb(138, 31, 17);
+        font-weight: bolder;
+        background-color: rgb(172, 165, 192);
+        padding: 3px 5px 3px 5px;
+        border-radius: 8px;
+        border: 1px solid rgb(106, 102, 143);  
+        position:absolute;
+        top: 200px;
+        left:825px;
+
+    }
+   
+   #body-section h2{
+    text-align: center;
+    font-weight: 200px;
+    color: black
+    margin-top: 5px;
+    margin:20px
+   }
+   #body-section p{
+    margin: 20px;
+   }
